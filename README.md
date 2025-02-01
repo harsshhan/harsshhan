@@ -1,13 +1,42 @@
-👋 Hi there! I'm Harshan!
+# Hi there, I'm Harsshhan! 👋
 
-🎓 I'm currently pursuing a degree in Computer Science Engineering with a specialization in AI and Machine Learning at SRM University.
+Welcome to my GitHub profile! I’m a software developer interested in open-source projects, app development, and backend development.
 
-💡 My interests lie in Flutter development and vision-related machine learning projects. I love exploring how technology can improve our daily lives and solve real-world problems.
+## About Me
 
-📱 I’ve developed a to-do app using Flutter, which includes Google sign-in and Firebase Firestore integration for task management.
+- 🌱 I’m currently learning Machine Learning and improving my skills in backend development.  
+- 💡 I enjoy simplifying complex problems and working on innovative projects.  
+- 🚀 I’m passionate about building tech solutions that make a real impact, especially in AI and speech-related applications.  
+- 🎓 I have experience in app development, backend development, and machine learning.  
+- 💬 Ask me about anything related to Flutter, FastAPI, Python, or AI/ML.  
 
-🛠️ I have a solid grasp of backend development, especially using FastAPI, and enjoy building robust and efficient APIs.
+## Technologies & Tools
 
-📚 My next big goal is to dive deep into machine learning, master it, and work on exciting ML projects that can make a difference.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 
-🚀 Always eager to learn new things, collaborate on innovative projects, and connect with like-minded individuals!
+## GitHub Stats
+
+![Harsshhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsshhan&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsshhan&layout=compact&theme=radical)
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/harshan-am/)
+- [Email](mailto:harshanmathi06@gmail.com)
+
+## Recent Projects
+
+- [Passket](https://github.com/harsshhan/passket): A Secure yet Transparent way to store your password locked behind a 4-digit pin
+- [Billify](https://github.com/harsshhan/Billify): A simple user-friendly Billing Software and Inventory Management
+- [ToDo app](https://github.com/harsshhan/ToDoApp): A simpel ToDo app developed using flutter.
+
+Feel free to reach out if you want to collaborate on any projects or just want to chat about tech!
