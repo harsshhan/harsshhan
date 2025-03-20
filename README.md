@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m a software developer interested in open-sour
 <br>
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoubhLance&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsshhan&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 ## Top Languages
 
