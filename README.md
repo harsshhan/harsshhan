@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a software developer interested in open-sour
 
 ## GitHub Stats
 
-![Harsshhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsshhan&show_icons=true&theme=radical)
+![img](https://gitmystat.vercel.app/user?theme=gold&username=harsshhan)
 <br>
 
 <br>
